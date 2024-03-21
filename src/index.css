@@ -1,21 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
-/* @font-face {
-  font-family: Preevio;
-  src: url(https://app.frontendor.com/version3/assets/ui-library/Blocks/blocks__assets/fonts/Preevio_Regular.otf);
-  font-weight: 400;
-  letter-spacing: 0.5px;
-}
-
-@font-face {
-  font-family: Preevio;
-  src: url(https://app.frontendor.com/version3/assets/ui-library/Blocks/blocks__assets/fonts/Preevio_Medium.otf);
-  font-weight: 700;
-  letter-spacing: 0.5px;
-}
-
-body {
-  font-family: 'Preevio';
-} */
 
 @tailwind base;
 @tailwind components;
